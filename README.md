@@ -1,6 +1,4 @@
-# APP - POO
-
- 
+# Aplicación Python for Analytics
 
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)
 
@@ -12,30 +10,22 @@
 
 ![PRs](https://img.shields.io/badge/PRs-Welcome-orange)
 
+## Descripción
+Aplicación desarrollada en Streamlit que integra los conceptos revisados en clase de
+programación como variables, condicionales, estructuras de datos, funciones,
+programación funcional y POO.
 ## 📁 Estructura del repositorio
-
- 
-
-bash
-
-# Carpeta raíz del proyecto
-
-LAS-Visualizer/
-
-├── Archivo principal de la aplicación Streamlit
 
 ├── app.py                     
 
-├── Documentación del proyecto
-
 ├── README.md                 
 
-├── Logo de la marca personal (usado en el sidebar)
+├── requirements.txt
 
-├── Logo Carlos Carrillo.png  
+## Enlaces
+Repositorio GitHub:
+Aplicación en Streamlit Cloud:
 
-├── Carpeta para almacenar archivos LAS de ejemplo
-
-├── Data/
-
-     └── Aquí puedes colocar archivos .las para pruebas
+## Autor
+Nombre del estudiante: Alonso Lovon
+Año: 2026
