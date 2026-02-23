@@ -23,8 +23,8 @@ programación funcional y POO.
 ├── requirements.txt
 
 ## Enlaces
-Repositorio GitHub:
-Aplicación en Streamlit Cloud:
+├── Repositorio GitHub:
+├── Aplicación en Streamlit Cloud: https://aplicacion-alonsolovon.streamlit.app/
 
 ## Autor
 Nombre del estudiante: Alonso Lovon
