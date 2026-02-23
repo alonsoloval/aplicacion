@@ -23,9 +23,11 @@ programación funcional y POO.
 ├── requirements.txt
 
 ## Enlaces
-├── Repositorio GitHub:
+├── Repositorio GitHub:https://github.com/alonsoloval/aplicacion/tree/main
+
 ├── Aplicación en Streamlit Cloud: https://aplicacion-alonsolovon.streamlit.app/
 
 ## Autor
-Nombre del estudiante: Alonso Lovon
-Año: 2026
+├── Nombre del estudiante: Alonso Lovon
+
+├── Año: 2026
